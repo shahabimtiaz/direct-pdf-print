@@ -9,10 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.20.3",
+    "body-parser": "^1.20.6",
     "cors": "^2.8.5",
     "escpos": "^3.0.0-alpha.6",
-    "express": "^4.21.1",
+    "express": "^4.22.2",
     "pdf-to-printer": "^5.6.0",
     "printer": "^0.4.0",
     "zuzel-printer": "^1.0.4"
